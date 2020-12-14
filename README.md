@@ -114,3 +114,7 @@
   Go 的**jQuery**。
 * [rxgo](https://darjun.github.io/2020/10/11/godailylib/rxgo)
   基于[pipelines](https://blog.golang.org/pipelines)的异步编程库。
+* [ants](https://github.com/panjf2000/ants)
+  goroutine pool(goroutine池)
+* [bytebufferpool](https://github.com/valyala/bytebufferpool)
+   bytes pool(内置 bytes 内存池)
